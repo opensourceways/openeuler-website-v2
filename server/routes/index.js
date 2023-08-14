@@ -27,13 +27,11 @@ router.get('/repo/search', function (req, res, next) {
         }
     };
     let token = new Buffer.from(ES.ES_USER_PASS).toString('base64');
-    let now = logUtil.getTime();
     HTTP.postES(ES.ES_URL + REPO_ES_INDEX + '/_doc/_search', token, json).then(data => {
         let responseData = getSearchResJson(data);
         res.send(responseData);
     }).catch(ex => {
         console.log('[' + now + ']' + ex.stack + os.EOL);
-        logUtil.errorLogfile.write('[' + now + ']' + ex.stack + os.EOL);
     });
 });
 
