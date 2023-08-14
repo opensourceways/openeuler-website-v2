@@ -33,10 +33,6 @@ app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 
 app.use(logger('dev'));
-logUtil.createLogsDdir();
-app.use(logger('combined', {
-    stream: logUtil.accessLogStream
-}));
 
 app.use(express.json());
 app.use(express.urlencoded({
@@ -53,8 +49,6 @@ app.use(function (req, res, next) {
 
 // error handler
 app.use(function (err, req, res, next) {
-    var meta = '[' + logUtil.getTime() + '] ' + req.method + ' ' + req.url;
-    console.log(meta + err.stack + os.EOL);
     next();
     // set locals, only providing error in development
     res.locals.message = err.message;
