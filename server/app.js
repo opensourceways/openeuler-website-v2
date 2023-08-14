@@ -33,10 +33,6 @@ app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 
 app.use(logger('dev'));
-logUtil.createLogsDdir();
-app.use(logger('combined', {
-    stream: logUtil.accessLogStream
-}));
 
 app.use(express.json());
 app.use(express.urlencoded({
