@@ -46,11 +46,6 @@ module.exports = {
     },
     themeConfig: {
         dateFormat: 'YYYY-MM-DD',
-        locales: {
-            'ru': {
-                lang: require('./lang/ru.js')
-            }
-        },
         smoothScroll: true,
         docsUrl: 'https://docs.ru.openeuler.org'
 

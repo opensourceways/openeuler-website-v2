@@ -1,8 +1,7 @@
 <template>
   <div id="euler-app">
     <CustomHeader />
-    <Content v-if="!isPost()" class="content" :class="{ 'is-home': $route.path.length === 4 }"/>
-    <Post v-if="isPost()" class="content" />
+    <Content  class="content" :class="{ 'is-home': $route.path.length === 4 }"/>
     <CustomFooter />
   </div>
 </template>
@@ -10,7 +9,6 @@
 <script>
 import CustomHeader from "@theme/components/CustomHeader.vue";
 import CustomFooter from "@theme/components/CustomFooter.vue";
-import Post from "@theme/layouts/Post.vue";
 
 export default {
   name: "Layout",
@@ -18,7 +16,6 @@ export default {
   components: {
     CustomHeader,
     CustomFooter,
-    Post
   },
 
   data() {

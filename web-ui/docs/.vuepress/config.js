@@ -64,9 +64,6 @@ module.exports = {
             'zh': {
                 lang: require('./lang/zh.js')
             },
-            'ru': {
-                lang: require('./lang/ru.js')
-            }
         },
         smoothScroll: true,
         docsUrl: 'https://docs.openeuler.org'
