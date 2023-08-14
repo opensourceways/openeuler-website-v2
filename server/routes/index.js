@@ -7,7 +7,6 @@ const fs = require('fs');
 const os = require('os');
 const url = require('url');
 const path = require('path');
-const CONF = require('../config/filePathConfig');
 const HTTP = require('../util/httpUtil');
 const ES = require('../config/searchConfig');
 const REPO_ES_INDEX = 'openeuler';
