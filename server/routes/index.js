@@ -31,7 +31,7 @@ router.get('/repo/search', function (req, res, next) {
         let responseData = getSearchResJson(data);
         res.send(responseData);
     }).catch(ex => {
-        console.log('[' + now + ']' + ex.stack + os.EOL);
+        console.log(ex.stack + os.EOL);
     });
 });
 
