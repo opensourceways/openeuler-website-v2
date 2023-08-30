@@ -603,7 +603,6 @@ html[lang="ru"] .summit-content .live-room .web-box .item-box .live-item {
         width: 100%;
         img {
             width: 280px;
-            height: 80px;
             cursor: pointer;
             margin: 0 auto;
             display: block;
@@ -616,7 +615,6 @@ html[lang="ru"] .summit-content .live-room .web-box .item-box .live-item {
             width: 100%;
             img {
                 width: 140px;
-                height: 40px;
                 margin: 0 auto;
             }
         }
@@ -632,7 +630,6 @@ html[lang="ru"] .summit-content .live-room .web-box .item-box .live-item {
         flex-direction: row;
         img {
             width: 280px;
-            height: 80px;
             margin: 0 40px 40px 0;
             cursor: pointer;
             display: block;
@@ -649,7 +646,6 @@ html[lang="ru"] .summit-content .live-room .web-box .item-box .live-item {
             flex-direction: column;
             img {
                 width: 140px;
-                height: 40px;
                 margin: 20px auto 0 auto;
                 &:nth-of-type(3n) {
                     margin-right: auto;
@@ -668,7 +664,6 @@ html[lang="ru"] .summit-content .live-room .web-box .item-box .live-item {
         flex-direction: row;
         img {
             width: 280px;
-            height: 80px;
             margin: 0 40px 40px 0;
             cursor: pointer;
             display: block;
@@ -685,7 +680,6 @@ html[lang="ru"] .summit-content .live-room .web-box .item-box .live-item {
             flex-direction: column;
             img {
                 width: 140px;
-                height: 40px;
                 margin: 20px auto 0 auto;
             }
         }
@@ -770,7 +764,6 @@ html[lang="ru"] .summit-content .live-room .web-box .item-box .live-item {
         flex-wrap: wrap;
         img {
             width: 280px;
-            height: 80px;
             display: block;
             cursor: pointer;
             margin: 0 40px 40px 0;

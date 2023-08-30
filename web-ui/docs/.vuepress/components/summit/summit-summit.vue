@@ -754,7 +754,6 @@ export default {
       img {
         cursor: pointer;
         width: 280px;
-        height: 80px;
       }
     }
     .foundation,
@@ -801,7 +800,6 @@ export default {
         margin-bottom: 30px;
         img {
           width: 210px;
-          height: 60px;
         }
       }
     }

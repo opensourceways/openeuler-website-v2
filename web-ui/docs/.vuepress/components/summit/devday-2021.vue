@@ -1078,7 +1078,6 @@ export default {
         margin: 0 auto;
         img {
             width: 280px;
-            height: 80px;
             display: block;
             margin: 0 40px 40px 0;
             cursor: pointer;
@@ -1091,7 +1090,6 @@ export default {
             flex-direction: column;
             img {
                 width: 140px;
-                height: 40px;
                 margin: 20px auto 0 auto;
                 &:nth-of-type(3n) {
                     margin-right: auto;
