@@ -29,6 +29,11 @@ router.get('/repo/search', function (req, res, next) {
     let token = new Buffer.from(ES.ES_USER_PASS).toString('base64');
     HTTP.postES(ES.ES_URL + REPO_ES_INDEX + '/_doc/_search', token, json).then(data => {
         let responseData = getSearchResJson(data);
+        responseData.data.records.forEach(element => {
+            if (element.version == 'openEuler-20.09' || element.version == 'openEuler-21.03' || element.version == 'openEuler-21.09' || element.version == 'openeuler1.0') {
+                element.path = element.path.replace('repo.openeuler.org', 'archives.openeuler.openatom.cn');
+            }
+        });
         res.send(responseData);
     }).catch(ex => {
         console.log(ex.stack + os.EOL);
