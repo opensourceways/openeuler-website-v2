@@ -135,42 +135,42 @@ export default {
                     THEME: 'openEuler developer day 2021',
                     TIME: '9:10 - 12:00',
                     OPTION: '9:10 - 12:00 openEuler developer day 2021',
-                    LIVEURL: 'https://vhall.huawei.com/v2/watch/8765?lang=zh&thirdId='
+                    LIVEURL: 'https://hw.vhallyun.com/v2/watch/8765?lang=zh&thirdId='
                 },
                 {
                     ID: 8766,
                     THEME: 'Linux内核',
                     TIME: '13:30 - 15:30',
                     OPTION: '13:30 - 15:30 Linux内核',
-                    LIVEURL: 'https://vhall.huawei.com/v2/watch/8766?lang=zh&thirdId='
+                    LIVEURL: 'https://hw.vhallyun.com/v2/watch/8766?lang=zh&thirdId='
                 },
                 {
                     ID: 8767,
                     THEME: '云原生&虚拟化',
                     TIME: '13:30 - 15:50',
                     OPTION: '13:30 - 15:50 云原生&虚拟化',
-                    LIVEURL: 'https://vhall.huawei.com/v2/watch/8767?lang=zh&thirdId='
+                    LIVEURL: 'https://hw.vhallyun.com/v2/watch/8767?lang=zh&thirdId='
                 },
                 {
                     ID: 8768,
                     THEME: '安全',
                     TIME: '13:30 - 15:50',
                     OPTION: '13:30 - 15:50 安全',
-                    LIVEURL: 'https://vhall.huawei.com/v2/watch/8768?lang=zh&thirdId='
+                    LIVEURL: 'https://hw.vhallyun.com/v2/watch/8768?lang=zh&thirdId='
                 },
                 {
                     ID: 8769,
                     THEME: '兼容性',
                     TIME: '13:30 - 15:30',
                     OPTION: '13:30 - 15:30 兼容性',
-                    LIVEURL: 'https://vhall.huawei.com/v2/watch/8769?lang=zh&thirdId='
+                    LIVEURL: 'https://hw.vhallyun.com/v2/watch/8769?lang=zh&thirdId='
                 },
                 {
                     ID: 8770,
                     THEME: '多样性算力',
                     TIME: '13:30 - 15:30',
                     OPTION: '13:30 - 15:30 多样性算力',
-                    LIVEURL: 'https://vhall.huawei.com/v2/watch/8770?lang=zh&thirdId='
+                    LIVEURL: 'https://hw.vhallyun.com/v2/watch/8770?lang=zh&thirdId='
                 }
                ],
                LIVETITLE: "峰会直播间"
