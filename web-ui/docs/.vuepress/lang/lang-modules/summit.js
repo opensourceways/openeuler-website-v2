@@ -19,42 +19,42 @@ module.exports = {
                 THEME: '操作系统产业峰会2021',
                 TIME: '09:30-11:30',
                 OPTION: '09:30-11:30 操作系统产业峰会2021',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9862?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9862?lang=zh&thirdId='
             },
             {
                 ID: 9863,
                 THEME: '麒麟软件',
                 TIME: '14:00-16:40',
                 OPTION: '14:00-16:40 麒麟软件',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9863?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9863?lang=zh&thirdId='
             },
             {
                 ID: 9900,
                 THEME: '麒麟信安',
                 TIME: '14:00-16:40',
                 OPTION: '14:00-16:40 麒麟信安',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9900?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9900?lang=zh&thirdId='
             },
             {
                 ID: 9901,
                 THEME: '统信',
                 TIME: '14:00-17:00',
                 OPTION: '14:00-17:00 统信',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9901?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9901?lang=zh&thirdId='
             },
             {
                 ID: 9864,
                 THEME: '中科创达',
                 TIME: '14:00-16:40',
                 OPTION: '14:00-16:40 中科创达',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9864?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9864?lang=zh&thirdId='
             },
             {
                 ID: 9865,
                 THEME: '普华基础软件',
                 TIME: '14:00-16:30 ',
                 OPTION: '14:00-16:30 普华基础软件',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9865?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9865?lang=zh&thirdId='
             },
            ],
            TEN : [
@@ -63,49 +63,49 @@ module.exports = {
                 THEME: 'openEuler Summit 2021',
                 TIME: '9:30-11:55 ',
                 OPTION: '9:30-11:55 openEuler Summit 2021',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9866?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9866?lang=zh&thirdId='
             },
             {
                 ID: 9867,
                 THEME: '内核',
                 TIME: '13:00-17:30 ',
                 OPTION: '13:00-17:30 内核分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9867?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9867?lang=zh&thirdId='
             },
             {
                 ID: 9868,
                 THEME: '云&虚拟化',
                 TIME: '13:00-18:00 ',
                 OPTION: '13:00-18:00 云&虚拟化分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9868?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9868?lang=zh&thirdId='
             },
             {
                 ID: 9869,
                 THEME: '兼容性',
                 TIME: '13:00-17:30 ',
                 OPTION: '13:00-17:30 兼容性分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9869?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9869?lang=zh&thirdId='
             },
             {
                 ID: 9870,
                 THEME: '安全&可靠性&运维',
                 TIME: '13:00-17:30 ',
                 OPTION: '13:00-17:30 安全&可靠性&运维分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9870?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9870?lang=zh&thirdId='
             },
             {
                 ID: 9871,
                 THEME: '分布式&多样性计算',
                 TIME: '13:00-18:00 ',
                 OPTION: '13:00-17:30 分布式&多样性计算分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9871?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9871?lang=zh&thirdId='
             },
             {
                 ID: 9872,
                 THEME: '边缘&嵌入式',
                 TIME: '13:00-17:30 ',
                 OPTION: '13:00-17:30 边缘&嵌入式分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9872?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9872?lang=zh&thirdId='
             },
            ]
         },
@@ -1394,42 +1394,42 @@ module.exports = {
                 THEME: '操作系统产业峰会2021',
                 TIME: '09:30-11:30',
                 OPTION: '09:30-11:30 操作系统产业峰会2021',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9862?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9862?lang=zh&thirdId='
             },
             {
                 ID: 9863,
                 THEME: '麒麟软件',
                 TIME: '14:00-16:40',
                 OPTION: '14:00-16:40 麒麟软件',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9863?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9863?lang=zh&thirdId='
             },
             {
                 ID: 9900,
                 THEME: '麒麟信安',
                 TIME: '14:00-16:40',
                 OPTION: '14:00-16:40 麒麟信安',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9900?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9900?lang=zh&thirdId='
             },
             {
                 ID: 9901,
                 THEME: '统信',
                 TIME: '14:00-17:00',
                 OPTION: '14:00-17:00 统信',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9901?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9901?lang=zh&thirdId='
             },
             {
                 ID: 9864,
                 THEME: '中科创达',
                 TIME: '14:00-16:40',
                 OPTION: '14:00-16:40 中科创达',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9864?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9864?lang=zh&thirdId='
             },
             {
                 ID: 9865,
                 THEME: '普华基础软件',
                 TIME: '14:00-16:30 ',
                 OPTION: '14:00-16:30 普华基础软件',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9865?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9865?lang=zh&thirdId='
             },
            ],
            TEN : [
@@ -1438,49 +1438,49 @@ module.exports = {
                 THEME: 'openEuler Summit 2021',
                 TIME: '9:30-11:55 ',
                 OPTION: '9:30-11:55 openEuler Summit 2021',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9866?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9866?lang=zh&thirdId='
             },
             {
                 ID: 9867,
                 THEME: '内核',
                 TIME: '13:00-17:30 ',
                 OPTION: '13:00-17:30 内核分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9867?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9867?lang=zh&thirdId='
             },
             {
                 ID: 9868,
                 THEME: '云&虚拟化',
                 TIME: '13:00-18:00 ',
                 OPTION: '13:00-18:00 云&虚拟化分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9868?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9868?lang=zh&thirdId='
             },
             {
                 ID: 9869,
                 THEME: '兼容性',
                 TIME: '13:00-17:30 ',
                 OPTION: '13:00-17:30 兼容性分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9869?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9869?lang=zh&thirdId='
             },
             {
                 ID: 9870,
                 THEME: '安全&可靠性&运维',
                 TIME: '13:00-17:30 ',
                 OPTION: '13:00-17:30 安全&可靠性&运维分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9870?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9870?lang=zh&thirdId='
             },
             {
                 ID: 9871,
                 THEME: '分布式&多样性计算',
                 TIME: '13:00-18:00 ',
                 OPTION: '13:00-17:30 分布式&多样性计算分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9871?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9871?lang=zh&thirdId='
             },
             {
                 ID: 9872,
                 THEME: '边缘&嵌入式',
                 TIME: '13:00-17:30 ',
                 OPTION: '13:00-17:30 边缘&嵌入式分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9872?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9872?lang=zh&thirdId='
             },
            ]
         },
@@ -2770,42 +2770,42 @@ module.exports = {
                 THEME: '操作系统产业峰会2021',
                 TIME: '09:30-11:30',
                 OPTION: '09:30-11:30 操作系统产业峰会2021',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9862?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9862?lang=zh&thirdId='
             },
             {
                 ID: 9863,
                 THEME: '麒麟软件',
                 TIME: '14:00-16:40',
                 OPTION: '14:00-16:40 麒麟软件',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9863?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9863?lang=zh&thirdId='
             },
             {
                 ID: 9900,
                 THEME: '麒麟信安',
                 TIME: '14:00-16:40',
                 OPTION: '14:00-16:40 麒麟信安',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9900?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9900?lang=zh&thirdId='
             },
             {
                 ID: 9901,
                 THEME: '统信',
                 TIME: '14:00-17:00',
                 OPTION: '14:00-17:00 统信',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9901?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9901?lang=zh&thirdId='
             },
             {
                 ID: 9864,
                 THEME: '中科创达',
                 TIME: '14:00-16:40',
                 OPTION: '14:00-16:40 中科创达',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9864?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9864?lang=zh&thirdId='
             },
             {
                 ID: 9865,
                 THEME: '普华基础软件',
                 TIME: '14:00-16:30 ',
                 OPTION: '14:00-16:30 普华基础软件',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9865?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9865?lang=zh&thirdId='
             },
            ],
            TEN : [
@@ -2814,49 +2814,49 @@ module.exports = {
                 THEME: 'openEuler Summit 2021',
                 TIME: '9:30-11:55 ',
                 OPTION: '9:30-11:55 openEuler Summit 2021',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9866?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9866?lang=zh&thirdId='
             },
             {
                 ID: 9867,
                 THEME: '内核',
                 TIME: '13:00-17:30 ',
                 OPTION: '13:00-17:30 内核分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9867?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9867?lang=zh&thirdId='
             },
             {
                 ID: 9868,
                 THEME: '云&虚拟化',
                 TIME: '13:00-18:00 ',
                 OPTION: '13:00-18:00 云&虚拟化分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9868?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9868?lang=zh&thirdId='
             },
             {
                 ID: 9869,
                 THEME: '兼容性',
                 TIME: '13:00-17:30 ',
                 OPTION: '13:00-17:30 兼容性分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9869?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9869?lang=zh&thirdId='
             },
             {
                 ID: 9870,
                 THEME: '安全&可靠性&运维',
                 TIME: '13:00-17:30 ',
                 OPTION: '13:00-17:30 安全&可靠性&运维分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9870?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9870?lang=zh&thirdId='
             },
             {
                 ID: 9871,
                 THEME: '分布式&多样性计算',
                 TIME: '13:00-18:00 ',
                 OPTION: '13:00-17:30 分布式&多样性计算分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9871?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9871?lang=zh&thirdId='
             },
             {
                 ID: 9872,
                 THEME: '边缘&嵌入式',
                 TIME: '13:00-17:30 ',
                 OPTION: '13:00-17:30 边缘&嵌入式分论坛',
-                LIVEURL: 'https://vhall.huawei.com/v2/watch/9872?lang=zh&thirdId='
+                LIVEURL: 'https://hw.vhallyun.com/v2/watch/9872?lang=zh&thirdId='
             },
            ]
         },
